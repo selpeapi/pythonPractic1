@@ -5,7 +5,7 @@ if __name__ == '__main__':
     c =1
 
     # while문
-  문 while a ==True:
+    while a ==True:
         b +=1
         print(b)
         if b >= 100: break
