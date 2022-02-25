@@ -3,7 +3,7 @@ if __name__ == '__main__':
     a = 1
     b = 2
     c = 3
-    d = 4가
+    d = 4
     # if, else if, else
     if a >= b:
         print(f'a의 값은 {b} 보다 큽니다')
