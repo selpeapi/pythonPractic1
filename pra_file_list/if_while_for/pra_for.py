@@ -5,7 +5,7 @@ if __name__ == '__main__':
     for b in range(1,11):
         print(a+b, end='')
     print()
-
+    z
     str_list =['aaa', 'bbb', 'ccc', 'ddd', 'eee']
     for b in str_list:
         print(b)
