@@ -1,7 +1,3 @@
-import pra_module
-
-print(pra_module.a)
-
 
 class calculator:
     # __init__은 생성자
@@ -39,7 +35,6 @@ class lowCalculator(calculator):
         else:
             result = self.num0 / self.num1
             return result
-
 
 # 클래스 변수
 class classvar():
