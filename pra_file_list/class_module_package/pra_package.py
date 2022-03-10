@@ -11,6 +11,8 @@ print(pra_file_list.class_module_package.pra_module.a)
 
 b =calculator2(1,2)
 print(b.plus())
+# -> 3
 
 c =pra_class.lowCalculator(3,0)
 print(c.divide())
+# -> 0
